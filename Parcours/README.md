@@ -7,4 +7,4 @@
 - [Javascript](./04-Javascript)
 - [jQuery](./05-jQuery)
 - [PHP](./06-PHP)
--[DB](./07-DB)
+- [DB](./07-DB)
