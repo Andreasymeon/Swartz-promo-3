@@ -25,7 +25,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 | Labour Day | Tuesday 01/05/2018 | 
 | Ascension | Thursday 10/05/2018 | 
 | Pentecost Monday | Monday 21/05/2018 | 
-| Internship (Hamilton/Swartz) | June 2018 | 
+| Internship (Hamilton/Swartz) | 4th June 2018 | 
 
 ## Contenus pédagogiques
 
