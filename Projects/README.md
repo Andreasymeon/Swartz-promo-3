@@ -7,3 +7,5 @@
 - [Portfolio](portfolio.md) - Réalisation d'un website en onepage en deux jours pour présenter ses travaux.
 - [FrontEnd-AllezCine](./FrontEnd-AllezCine) - Réalisation de deux sites et une newsletter sur deux semaines, par équipe
 - [Todolist](./Todolist)
+- [Fil rouge - Guerilla style](filrouge.md) : Réalisation d'un one page en 8 heures en mode solo
+- [Fil rouge - As a team](filrougeasteam.md) : Réalisation de la partie blog du one page créé lors du Guerilla Style en mode team
