@@ -40,7 +40,7 @@ BONUS : prévoir différents auteurs. Si vous faites ça, on veut une page qui a
 Pour les textes, vous pouvez soit utiliser du lorem ipsum soit utiliser du texte du site original.
 
 #### Blog côté admin
-- Menu qui propose de nouvelles options quand on est connecté.
+- Menu qui propose de nouvelles options quand on est connecté (exemple : liens vers la gestion des articles, des catégories)
 - Connexion au blog avec au moins un compte (un user de type admin).
 - Un dashboard avec la liste de tous les articles, leurs catégories, leurs auteurs.
 - Possibilité d'ajouter un article
