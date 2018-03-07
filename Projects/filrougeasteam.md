@@ -5,6 +5,7 @@
 - Nom du repo : `filrougeasteam`
 - URL vers le site à mettre sur le repo GitHub
 - Hébergement : comme vous voulez.
+- [Formulaire pour rendre le travail](https://goo.gl/forms/sVFXy5ix1ZqDpvK12)
 
 ## Contraintes
 - Score Lighthouse le plus élevé possible.
