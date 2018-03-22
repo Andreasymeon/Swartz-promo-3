@@ -11,3 +11,6 @@
 - [AJAX](./08-AJAX)
 - [MVC](./09-MVC)
 - [POO](./10-POO)
+- [Wordpress](./11-Wordpress)
+- [Symfony](./12-Symfony)
+- [PWA](./13-PWA)
