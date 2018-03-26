@@ -79,3 +79,4 @@
 - http://wordpress.com/ => Pour créer des sites wordpress hébergés en ligne gratuitement  
 - http://wpscouts.com/personnaliser-css-wordpress/ <= Si vous avez besoin d'aide pour modifier le CSS d'un thème Wordpress :smile:
 - En bonus -> https://www.creativejuiz.fr/blog/tutoriels/wordpress-personnaliser-un-theme-avec-child-theme-enfant
+- https://developer.wordpress.org/reference/
