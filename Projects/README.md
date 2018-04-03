@@ -1,4 +1,6 @@
-# Projets
+#Projets
+
+## Projets encadrés
 
 - [Interview de webdev](./interview-webdev) - site multipages
 - [Amélioration progressive](progressive-enhancement) - mise en pratique de l'HTML sémantique
@@ -9,3 +11,8 @@
 - [Todolist](./Todolist)
 - [Fil rouge - Guerilla style](filrouge.md) : Réalisation d'un one page en 8 heures en mode solo
 - [Fil rouge - As a team](filrougeasteam.md) : Réalisation de la partie blog du one page créé lors du Guerilla Style en mode team
+
+## Propositions de projets
+- [COGIP - application de comptabilité pour indépendants](./COGIPapp) : pour fabriquer votre propre outil de gestion comptable
+- [Webshop](./frameworkphp) : pour vous initier ou pratiquer un framework (par exemple PHP)
+- [FooDog](./Foodog) : pour vous initier ou pratiquer Wordpress
